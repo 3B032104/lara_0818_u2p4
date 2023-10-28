@@ -1,6 +1,6 @@
 //繼承主樣板
 @extends('layouts.master')
-@section('title', 'Clean Blog - Home')
+@section('title', 'Clean Blog - Contact')
 
 @section('content')
     <!-- Page Header-->

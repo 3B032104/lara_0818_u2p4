@@ -20,7 +20,7 @@
 @include('layouts.partials.navigation')
 <!-- Page Header-->
 <!-- Main Content-->
-@include('content')
+@yield('content')
 <!-- Footer-->
 @include('layouts.partials.footer')
 <!-- Bootstrap core JS-->
